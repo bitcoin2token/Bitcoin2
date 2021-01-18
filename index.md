@@ -1,12 +1,20 @@
-### Bitcoin2
+### Bitcoin2   
 
-You can use the [editor on GitHub](https://github.com/bitcoin2token/bitcoin2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##                                   Money Markets
 
-### Markdown
+A Decentralized Marketplace for Lenders and Borrowes with Borderless Stablecoins.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### Decentralized
+Access an immutable money market protocol directly on-chain.
+
+### BEP-20
+All BTC2 Protocol assets are bound by the BEP-20 standard.
+
+### Scalable
+Built on Binance Smart Chain for fast, secure, and low cost transactions.
 
 ```markdown
 Syntax highlighted code block
